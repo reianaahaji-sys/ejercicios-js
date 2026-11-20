@@ -1,0 +1,25 @@
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+        modified:   variables.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        evaluacion-estado.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
+===Git diff===
+--git a/README.md b/README.md
+index 98502ae..f244cd7 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,5 @@
+ # Ejercicios de JavaScript
+ 
+ Este repositorio contiene mis ejercicios de programación.
++
++He añadido una nueva variable en JavaScript.
