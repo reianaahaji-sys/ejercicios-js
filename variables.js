@@ -6,3 +6,8 @@ console.log(edad);
 
 let ciudad = "Valencia";
 console.log(ciudad);
+
+
+
+let lenguaje = "JavaScript";
+console.log(lenguaje);
