@@ -3,8 +3,8 @@
 
 
 
-let age = 10;
-let withAdult = true;
+const age = 10;
+const withAdult = true;
 let rating = '+12';
 function canWatchMovie(age, withAdult, rating) {
     if (rating === "TP") {
